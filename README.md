@@ -12,8 +12,33 @@ The system is built using an object-oriented approach in Java. A key design feat
 
 ## Features
 
-* **Student Management:** Add, view, update, and remove student records.
-* **Teacher Management:** Add, view, update, and remove teacher records.
+* **Menu System:** A detailed, interactive menu to navigate the program.
+* **People Module (Students & Teachers):**
+    * Add new individuals (students or teachers).
+    * Edit existing records.
+    * Delete records.
+    * Sort records (e.g., by name or ID).
+    * Search for specific individuals.
+* **Course Module:**
+    * Add new courses.
+    * Edit course details.
+    * Delete courses.
+    * Sort courses (e.g., by code or name).
+    * Search for specific courses.
+* **Enrollment Module:**
+    * Enroll students in a course.
+    * Drop students from a course.
+    * List enrollments (e.g., by student or by course).
+* **Reporting Module:**
+    * Generate counts (e.g., total students, total courses).
+    * List missing courses or students.
+* **Storage:**
+    * Save current system state.
+    * Load previous system state.
+    * Export data to CSV files.
+* **Login:**
+    * User authentication.
+    * Ability for users to change their password.
 
 ## Technology Stack
 
