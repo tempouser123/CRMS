@@ -14,8 +14,6 @@ The system is built using an object-oriented approach in Java. A key design feat
 
 * **Student Management:** Add, view, update, and remove student records.
 * **Teacher Management:** Add, view, update, and remove teacher records.
-* [Add other features here, e.g., Course enrollment, grade tracking, resource booking, etc.]
-* [Add another feature...]
 
 ## Technology Stack
 
@@ -28,8 +26,6 @@ Follow these instructions to get a local copy up and running.
 ### Prerequisites
 
 * Java Development Kit (JDK) [Specify version, e.g., 11 or 17+]
-* [Any other requirements, e.g., Apache Maven, an IDE like IntelliJ/Eclipse]
-* [Database server if applicable, e.g., MySQL Server]
 
 ### Installation & Running
 
