@@ -20,8 +20,6 @@ The system is built using an object-oriented approach in Java. A key design feat
 ## Technology Stack
 
 * **Core:** Java
-* **Database:** [Add database if used, e.g., MySQL, PostgreSQL, SQLite, or "None"]
-* **UI:** [Add UI framework if used, e.g., JavaFX, Swing, or "Console-based"]
 
 ## Getting Started
 
@@ -75,17 +73,3 @@ Follow these instructions to get a local copy up and running.
         ```bash
         gradlew run
         ```
-
-## Contributing
-
-Contributions are welcome! If you have suggestions to improve the project, please feel free to fork the repository and create a pull request.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
-## License
-
-[Add your license here. If you don't have one, the MIT License is a popular and simple choice.]
